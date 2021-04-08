@@ -11,6 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <img src="http://qqtaku.com/128/55/6.png?i=i7864634" style={{width:'100%',height:'100%'}}></img>
+        <img src="https://www.w3schools.com/w3css/img_lights.jpg" style={{width:'100%',height:'100%'}}></img>
       </main>
       <footer className={styles.footer}>
         <a
